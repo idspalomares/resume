@@ -1,0 +1,735 @@
+{
+  "myinfo" : {
+    "header": {
+      "myGreeting" : "<p align='justify'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Once you have made it to the box office and gotten your tickets, you are confronted with the problems of the theater itself. If you are in one of the run-down older theaters, you must adjust to the musty smell of seldom-cleaned carpets. Escaped springs lurk in the faded plush or cracked leather seats, and half the seats you sit in seem loose or tilted so that you sit at a strange angle. The newer twin and quad theaters offer their own problems. Sitting in an area only one-quarter the size of a regular theater, moviegoers often have to put up with the sound of the movie next door. This is especially jarring when the other movie involves racing cars or a karate war and you are trying to enjoy a quiet love story. And whether the theater is old or new, it will have floors that seem to be coated with rubber cement. By the end of a movie, shoes almost have to be pried off the floor because they have become sealed to a deadly compound of spilled soda, hardening bubble gum, and crushed Ju-Jubes.</p>"
+    }
+  },
+  "jobs" : [
+    {
+      "_id" : "1",
+      "companyName" : "Novare Technologies",
+      "companyLocation" : "Makati City/Taguig City, BGC, Philippines",
+      "img_src" : "./img/novare.png",
+      "position" : "Software Engineer",
+      "dateStartedMonth" : 9,
+      "dateStartedYear" : 2012,
+      "dateEndedMonth" : 10,
+      "dateEndedYear" : 2014,
+      "isEmployed" : "",
+      "description" : "<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>"
+    },
+    {
+      "_id" : "2",
+      "companyName" : "Cullinan Group",
+      "companyLocation" : "Makati City, Philippines",
+      "img_src" : "./img/cullinan.png",
+      "position" : "Junior/Mid Java Developer",
+      "dateStartedMonth" : 10,
+      "dateStartedYear" : 2014,
+      "dateEndedMonth" : 6,
+      "dateEndedYear" : 2015,
+      "isEmployed" : "",
+      "description" : "<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>"
+    },
+    {
+      "_id" : "3",
+      "companyName" : "Accenture, Inc.",
+      "companyLocation" : "Madaluyong City, Philippines",
+      "img_src" : "./img/accenture.png",
+      "position" : "Software Engineering Team Lead",
+      "dateStartedMonth" : 6,
+      "dateStartedYear" : 2015,
+      "dateEndedMonth" : 5,
+      "dateEndedYear" : 2016,
+      "isEmployed" : "",
+      "description" : "<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>"
+    },
+    {
+      "_id" : "4",
+      "companyName" : "ABA-ROLI",
+      "companyLocation" : "Makati City, Philippines",
+      "img_src" : "./img/abaroli.png",
+      "position" : "Senior Java Developer",
+      "dateStartedMonth" : 8,
+      "dateStartedYear" : 2015,
+      "dateEndedMonth" : "",
+      "dateEndedYear" : "",
+      "isEmployed" : true,
+      "description" : "<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>"
+    }
+  ],
+  "skills" : [
+    {
+      "_id" : "1",
+      "mainCategory": "Software Development",
+      "items" : [
+        {
+          "_id" : "1",
+          "category" : "Methodologies",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Waterfall",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Agile - Scrum",
+              "rate" : 5
+            },
+            {
+              "_id" : "3",
+              "name" : "Test Driven Development (TDD)",
+              "rate" : 3
+            }
+          ]
+        },
+        {
+          "_id" : "2",
+          "category" : "Architecture",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Three-Tier",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Multilayered",
+              "rate" : 4
+            },
+            {
+              "_id" : "3",
+              "name" : "Model-View-Controller (MVC)",
+              "rate" : 5
+            },
+            {
+              "_id" : "4",
+              "name" : "Service Oriented Architecture (SOA)",
+              "rate" : 4
+            },
+            {
+              "_id" : "5",
+              "name" : "Representational State Transfer (REST)",
+              "rate" : 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id" : "2",
+      "mainCategory": "Application, Servers & Task Management tools",
+      "items" : [
+        {
+          "_id" : "1",
+          "category" : "Continues Integration",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Jenkins",
+              "rate" : 4
+            },
+            {
+              "_id" : "2",
+              "name" : "Hudson",
+              "rate" : 2
+            }
+          ]
+        },
+        {
+          "_id" : "2",
+          "category" : "Project/Task Management",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "JIRA",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Redmine",
+              "rate" : 4
+            },
+            {
+              "_id" : "3",
+              "name" : "Kanban",
+              "rate" : 3
+            },
+            {
+              "_id" : "3",
+              "name" : "Rational Team Cocert (RTC)",
+              "rate" : 3
+            }
+          ]
+        },
+        {
+          "_id" : "3",
+          "category" : "Version Control",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Git",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Subversion (SVN)",
+              "rate" : 4
+            }
+          ]
+        },
+        {
+          "_id" : "4",
+          "category" : "Application Servers",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Tomcat 7",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "IBM Websphere",
+              "rate" : 2
+            },
+            {
+              "_id" : "3",
+              "name" : "Glassfish",
+              "rate" : 3
+            },
+            {
+              "_id" : "4",
+              "name" : "SAP Hana Cloud Platform",
+              "rate" : 2
+            }
+          ]
+        },
+        {
+          "_id" : "5",
+          "category" : "Operating System",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Linux Ubuntu",
+              "rate" : 4
+            },
+            {
+              "_id" : "2",
+              "name" : "Mac OSX",
+              "rate" : 4
+            },
+            {
+              "_id" : "3",
+              "name" : "Microsoft Windows",
+              "rate" : 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id" : "3",
+      "mainCategory": "Java Platform",
+      "items" : [
+        {
+          "_id" : "1",
+          "category" : "Core",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Basic & Concepts",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "OOP",
+              "rate" : 5
+            },
+            {
+              "_id" : "3",
+              "name" : "Collections",
+              "rate" : 5
+            },
+            {
+              "_id" : "4",
+              "name" : "Threading",
+              "rate" : 2
+            },
+            {
+              "_id" : "5",
+              "name" : "Design Patterns",
+              "rate" : 4
+            }
+          ]
+        },
+        {
+          "_id" : "2",
+          "category" : "J2EE || Java EE API",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Servlet",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Bean Validation",
+              "rate" : 3
+            },
+            {
+              "_id" : "3",
+              "name" : "Persistence API (JPA)",
+              "rate" : 5
+            },
+            {
+              "_id" : "4",
+              "name" : "Transaction API (JTA)",
+              "rate" : 3
+            },
+            {
+              "_id" : "5",
+              "name" : "Security Constraint/Auth",
+              "rate" : 4
+            },
+            {
+              "_id" : "6",
+              "name" : "Concurrency",
+              "rate" : 2
+            },
+            {
+              "_id" : "7",
+              "name" : "Message Service (JMS) API",
+              "rate" : 2
+            },
+            {
+              "_id" : "8",
+              "name" : "Connector Architecture (JCA) AP",
+              "rate" : 3
+            },
+            {
+              "_id" : "9",
+              "name" : "JavaServer Pages (JSP)",
+              "rate" : 5
+            },
+            {
+              "_id" : "10",
+              "name" : "Unified Expression Language (EL)",
+              "rate" : 3
+            },
+            {
+              "_id" : "11",
+              "name" : "Standard Tag Library (JSTL)",
+              "rate" : 3
+            },
+            {
+              "_id" : "12",
+              "name" : "RESTful Web Services (JAX-RS)",
+              "rate" : 4
+            },
+            {
+              "_id" : "13",
+              "name" : "Common Annotations for the Java Platform (JSR-250)",
+              "rate" : 3
+            },
+            {
+              "_id" : "14",
+              "name" : "Java Naming and Directory Interface (JNDI)",
+              "rate" : 3
+            }
+          ]
+        },
+        {
+          "_id" : "3",
+          "category" : "Spring Framework",
+          "version" : "3 and 4",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Core Container",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Spring-Web",
+              "rate" : 5
+            },
+            {
+              "_id" : "3",
+              "name" : "Webflow",
+              "rate" : 2
+            },
+            {
+              "_id" : "4",
+              "name" : "Spring-MVC",
+              "rate" : 5
+            },
+            {
+              "_id" : "5",
+              "name" : "Spring Security",
+              "rate" : 5
+            },
+            {
+              "_id" : "6",
+              "name" : "Inversion of control (IoC)",
+              "rate" : 4
+            },
+            {
+              "_id" : "7",
+              "name" : "Aspect-oriented programming (AOP)",
+              "rate" : 1
+            },
+            {
+              "_id" : "8",
+              "name" : "Data Access/Integration",
+              "rate" : 2
+            },
+            {
+              "_id" : "9",
+              "name" : "Spring Test",
+              "rate" : 3
+            }
+          ]
+        },
+        {
+          "_id" : "4",
+          "category" : "Object Relational mapping (ORM)",
+          "version" : "3 and 4",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Hibernate",
+              "rate" : 5
+            }
+          ]
+        },
+        {
+          "_id" : "5",
+          "category" : "Testing Framework",
+          "version" : "3 and 4",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "JUnit",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Mockito",
+              "rate" : 5
+            },
+            {
+              "_id" : "3",
+              "name" : "EasyMock",
+              "rate" : 2
+            }
+          ]
+        },
+        {
+          "_id" : "6",
+          "category" : "Build and Compilers",
+          "version" : "3 and 4",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Maven",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Ant / Ivy",
+              "rate" : 5
+            }
+          ]
+        },
+        {
+          "_id" : "7",
+          "category" : "Quality",
+          "version" : "3 and 4",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "SonarQube",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "Checkstyle",
+              "rate" : 3
+            }
+          ]
+        },
+        {
+          "_id" : "8",
+          "category" : "Other Java Libraries",
+          "version" : "3 and 4",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Dozer",
+              "rate" : 3
+            },
+            {
+              "_id" : "2",
+              "name" : "Jasper Reports",
+              "rate" : 5
+            },
+            {
+              "_id" : "3",
+              "name" : "Dynamic Jasper",
+              "rate" : 4
+            },
+            {
+              "_id" : "4",
+              "name" : "OpenCMIS",
+              "rate" : 2
+            },
+            {
+              "_id" : "5",
+              "name" : "SAP Hana Cloud Platform API",
+              "rate" : 3
+            },
+            {
+              "_id" : "5",
+              "name" : "SuccessFactors API",
+              "rate" : 2
+            },
+            {
+              "_id" : "6",
+              "name" : "Thymeleaf",
+              "rate" : 2
+            }
+          ]
+        },
+        {
+          "_id" : "9",
+          "category" : "IDE",
+          "version" : "3 and 4",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Eclipse",
+              "rate" : 4
+            },
+            {
+              "_id" : "2",
+              "name" : "IntelliJ IDEA",
+              "rate" : 5
+            },
+            {
+              "_id" : "3",
+              "name" : "VCS",
+              "rate" : 4
+            },
+            {
+              "_id" : "4",
+              "name" : "iReport",
+              "rate" : 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id" : "4",
+      "mainCategory": "Web Development",
+      "items" : [
+        {
+          "_id" : "1",
+          "category" : "Presentation and Templates",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "HTML",
+              "rate" : 5
+            },
+            {
+              "_id" : "2",
+              "name" : "CSS",
+              "rate" : 3
+            },
+            {
+              "_id" : "3",
+              "name" : "SASS",
+              "rate" : 2
+            },
+            {
+              "_id" : "4",
+              "name" : "Twitter Bootstrap",
+              "rate" : 3
+            },
+            {
+              "_id" : "5",
+              "name" : "Zurb Foundation",
+              "rate" : 1
+            }
+          ]
+        },
+        {
+          "_id" : "2",
+          "category" : "Native JavaScript & Libraries",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Native",
+              "rate" : 4
+            },
+            {
+              "_id" : "2",
+              "name" : "JQuery",
+              "rate" : 5
+            },
+            {
+              "_id" : "3",
+              "name" : "Angular.js",
+              "rate" : 2
+            },
+            {
+              "_id" : "4",
+              "name" : "React.js",
+              "rate" : 3
+            },
+            {
+              "_id" : "5",
+              "name" : "Zepto",
+              "rate" : 4
+            },
+            {
+              "_id" : "5",
+              "name" : "Handlebars",
+              "rate" : 2
+            },
+            {
+              "_id" : "5",
+              "name" : "Handlebars.js",
+              "rate" : 2
+            },
+            {
+              "_id" : "5",
+              "name" : "Require.js",
+              "rate" : 2
+            }
+          ]
+        },
+        {
+          "_id" : "3",
+          "category" : "JavaScript Backend",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Node.js",
+              "rate" : 3
+            },
+            {
+              "_id" : "2",
+              "name" : "NPM",
+              "rate" : 3
+            },
+            {
+              "_id" : "3",
+              "name" : "Grunt",
+              "rate" : 2
+            },
+            {
+              "_id" : "4",
+              "name" : "Express.js",
+              "rate" : 3
+            },
+            {
+              "_id" : "5",
+              "name" : "Webpack",
+              "rate" : 1
+            },
+            {
+              "_id" : "6",
+              "name" : "Babel",
+              "rate" : 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id" : "5",
+      "mainCategory": "Database Management",
+      "items" : [
+        {
+          "_id" : "1",
+          "category" : "Database Servers",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Oracle",
+              "rate" : 4
+            },
+            {
+              "_id" : "2",
+              "name" : "MySQL",
+              "rate" : 5
+            },
+            {
+              "_id" : "3",
+              "name" : "Postgres",
+              "rate" : 3
+            },
+            {
+              "_id" : "4",
+              "name" : "Microsoft SQL (MSSQL)",
+              "rate" : 2
+            },
+            {
+              "_id" : "5",
+              "name" : "MongoDB",
+              "rate" : 3
+            },
+            {
+              "_id" : "5",
+              "name" : "Couchbase",
+              "rate" : 3
+            }
+          ]
+        },
+        {
+          "_id" : "4",
+          "category" : "Editors",
+          "version" : "1.6 - 1.7",
+          "items" : [
+            {
+              "_id" : "1",
+              "name" : "Notepad++",
+              "rate" : 3
+            },
+            {
+              "_id" : "2",
+              "name" : "Sublime Text",
+              "rate" : 2
+            },
+            {
+              "_id" : "3",
+              "name" : "Atom",
+              "rate" : 3
+            },
+            {
+              "_id" : "4",
+              "name" : "Brackets",
+              "rate" : 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+.panel-main-content {
+  position: relative;
+  width: 100%;
+}
+
+.panel-content {
+  width: 100%;
+}
+
+.panel-heading {
+  font-family: code;
+  font-size: 2em;
+}
+
+.panel-body {
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color:rgba(0, 0, 0, 0.05);
+}
+
+.panel-heading {
+  background-color: black !important;
+}
+
+.panel-primary {
+  border-color: black !important;
+}
+
+.label-default {
+  background-color: black !important;
+  font-family: bebas;
+}
+
+.category-header {
+  font-family: mononoki;
+}
+
+.skill-category-container {
+  margin-left: 1em;
+}
+
+.progress-label {
+  float: left;
+  margin-right: 1em;
+}
+
+.progress-bar {
+  background-color: black !important;
+}
+
+.skill-progress {
+  width: 15em;
+}
+
+.skill-item-title {
+  font-family: mononoki;
+  padding-left: 3em;
+}
+
+.progress-container {
+  float: left;
+}
+
+.progress {
+  background-color: transparent !important;
+  border: 1px black !important;
+  -moz-box-shadow:    inset 0 0 1px #000000;
+  -webkit-box-shadow: inset 0 0 1px #000000;
+  box-shadow:         inset 0 0 1px #000000;
+}
+
+.skill-progress-bar {
+  height: 30px !important;
+}

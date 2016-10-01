@@ -1,0 +1,68 @@
+.info-name {
+  font-family: code;
+  font-size: 3.6em;
+}
+
+.info-fullname {
+  font-family: bebas;
+  font-size: 3em;
+}
+
+.info-name span:nth-child(1) {
+  color: #bf4040;
+}
+
+.info-name span:nth-child(2) {
+  color: 	#262673;
+}
+
+.info-name span:nth-child(3) {
+  color: 	#996633;
+}
+
+.green {
+  color: #6E9E6F;
+}
+
+.header-fullname {
+  font-family: sensation-bold;
+}
+
+.header-title {
+  font-family: sensation-bold;
+  text-align: center;
+}
+
+p {
+  font-family: elevation;
+  font-size: 15px;
+}
+
+.signature {
+  float: right;
+}
+
+.myinfo-content-holder > .row {
+  text-align: center;
+}
+
+.vi, .scm {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.greeting-item {
+  padding: 0px 3.2em;
+}
+
+.thumbnail img {
+  height: 300;
+}
+
+.thumbnail {
+  width: 19em;
+  height: 25em;
+  max-width:100%;
+  max-height:100%;
+  border: 2px solid;
+}
